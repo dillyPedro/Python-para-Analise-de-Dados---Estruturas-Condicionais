@@ -47,20 +47,20 @@ Bonificação
 Incentivo
 Corte de gastos
 
-🧠 Conceitos aplicados
-Estruturas condicionais (if, elif, else)
-Operadores lógicos
-Entrada e saída de dados
-Validação de dados
+🧠 Conceitos aplicados:
+Estruturas condicionais (if, elif, else),
+Operadores lógicos,
+Entrada e saída de dados,
+Validação de dados e
 Lógica de programação
 
-🛠️ Tecnologias utilizadas
+🛠️ Tecnologias utilizadas:
 Python 3
 
-🎯 Objetivo
+🎯 Objetivo:
 
 Praticar e consolidar os fundamentos da programação, desenvolvendo soluções para problemas do dia a dia e simulando cenários reais.
 
-📌 Observação
+📌 Observação:
 
 Este repositório faz parte do meu processo de aprendizado. Projetos mais avançados serão adicionados conforme minha evolução.
